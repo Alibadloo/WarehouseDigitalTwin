@@ -2,6 +2,8 @@
 
 A real-time 3D interactive warehouse visualization system — built with **React Three Fiber**, **C# .NET**, and **Python AI (Ollama)**.
 
+![Demo](screenshots/ezgif-7cefcec2f83d4348.gif)
+
 ---
 
 ## Features

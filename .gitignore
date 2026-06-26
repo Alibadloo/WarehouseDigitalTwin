@@ -1,0 +1,27 @@
+# .NET
+backend/bin/
+backend/obj/
+backend/warehouse.db
+backend/*.db-shm
+backend/*.db-wal
+
+# Python
+ai-service/venv/
+ai-service/__pycache__/
+ai-service/app/__pycache__/
+ai-service/.env
+**/*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
